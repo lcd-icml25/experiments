@@ -1,47 +1,23 @@
-# Logistic regression on a2a dataset with L2 regularization
+## Logistic Regression on a2a Dataset with L<sub>2</sub> Regularization
 
-<div align="center">  
-  <!-- 3 images in a row -->
-  <div style="display: flex; justify-content: space-between;">
-    <img src="img/a2a_p2_a0.00015.png" alt="Method A" width="30%">
-    <img src="img/a2a_p2_a0.0005.png" alt="Method C" width="30%">
-    <img src="img/a2a_p2_a0.0015.png" alt="Method B" width="30%">
-  </div>
+| **$\lambda = L \cdot 10^{-4}$** | **$\lambda = \frac{L}{3} \cdot 10^{-3}$** | **$\lambda = L \cdot 10^{-3}$** |
+|:----------------------------:|:----------------------------:|:----------------------------:|
+| ![](img/a2a_p2_a0.00015.png)  | ![](img/a2a_p2_a0.0005.png)   | ![](img/a2a_p2_a0.0015.png)   |
 
-  <br>
-  <img src="img/legend.png" alt="Legend" width="50%">
-</div>
+![legend](img/legend.png)  
 
-# Logistic regression on mushrooms dataset with L2 regularization
+## Logistic Regression on mushrooms Dataset with L<sub>2</sub> Regularization
 
-<div align="center">
-  <h3>Performance Comparison</h3>
-  
-  <!-- 3 images in a row -->
-  <div style="display: flex; justify-content: space-between;">
-    <img src="img/mushrooms_p2_a0.0003.png" alt="Method A" width="30%">
-    <img src="img/mushrooms_p2_a0.001.png" alt="Method C" width="30%">
-    <img src="img/mushrooms_p2_a0.003.png" alt="Method B" width="30%">
-  </div>
+| **$\lambda = L \cdot 10^{-4}$** | **$\lambda = \frac{L}{3} \cdot 10^{-3}$** | **$\lambda = L \cdot 10^{-3}$** |
+|:----------------------------:|:----------------------------:|:----------------------------:|
+| ![](img/mushrooms_p2_a0.0003.png) | ![](img/mushrooms_p2_a0.001.png) | ![](img/mushrooms_p2_a0.003.png) |
 
-  <!-- Centered legend below -->
-  <br>
-  <img src="img/legend.png" alt="Legend" width="50%">
-</div>
+![legend](img/legend.png)  
 
-# Logistic regression on mushrooms dataset with L3 regularization
+## Logistic Regression on mushrooms Dataset with L<sub>3</sub> Regularization
 
-<div align="center">
-  <h3>Performance Comparison</h3>
-  
-  <!-- 3 images in a row -->
-  <<div style="display: flex; justify-content: space-between;">
-    <img src="img/mushrooms_p2_a0.003.png" alt="Method A" width="30%">
-    <img src="img/mushrooms_p2_a0.01.png" alt="Method C" width="30%">
-    <img src="img/mushrooms_p2_a0.03.png" alt="Method B" width="30%">
-  </div>
+| **$\lambda = L \cdot 10^{-3}$** | **$\lambda = \frac{L}{3} \cdot 10^{-2}$** | **$\lambda = L \cdot 10^{-2}$** |
+|:----------------------------:|:----------------------------:|:----------------------------:|
+| ![](img/mushrooms_p3_a0.003.png) | ![](img/mushrooms_p3_a0.01.png) | ![](img/mushrooms_p3_a0.03.png) |
 
-  <!-- Centered legend below -->
-  <br>
-  <img src="img/legend.png" alt="Legend" width="50%">
-</div>
+![legend](img/legend.png)  
