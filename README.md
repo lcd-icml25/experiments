@@ -5,6 +5,8 @@
 | ![](img/a2a_p2_a0.00015.png)  | ![](img/a2a_p2_a0.0005.png)   | ![](img/a2a_p2_a0.0015.png)   |
 
 ![legend](img/legend.png)  
+---
+<br/><br/>
 
 ## Logistic Regression on mushrooms Dataset with L<sub>2</sub> Regularization
 
@@ -12,7 +14,9 @@
 |:----------------------------:|:----------------------------:|:----------------------------:|
 | ![](img/mushrooms_p2_a0.0003.png) | ![](img/mushrooms_p2_a0.001.png) | ![](img/mushrooms_p2_a0.003.png) |
 
-![legend](img/legend.png)  
+![legend](img/legend.png)                                       
+---
+<br/><br/>
 
 ## Logistic Regression on mushrooms Dataset with L<sub>3</sub> Regularization
 
