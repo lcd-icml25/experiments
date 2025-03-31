@@ -1,4 +1,4 @@
-## Logistic Regression on a2a Dataset with L<sub>2</sub> Regularization
+## Logistic regression on a2a dataset with L<sub>2</sub> Regularization
 
 | **$\lambda = L \cdot 10^{-4}$** | **$\lambda = \frac{L}{3} \cdot 10^{-3}$** | **$\lambda = L \cdot 10^{-3}$** |
 |:----------------------------:|:----------------------------:|:----------------------------:|
@@ -8,7 +8,7 @@
 ---
 <br/><br/>
 
-## Logistic Regression on mushrooms Dataset with L<sub>2</sub> Regularization
+## Logistic regression on mushrooms dataset with L<sub>2</sub> Regularization
 
 | **$\lambda = L \cdot 10^{-4}$** | **$\lambda = \frac{L}{3} \cdot 10^{-3}$** | **$\lambda = L \cdot 10^{-3}$** |
 |:----------------------------:|:----------------------------:|:----------------------------:|
@@ -18,7 +18,7 @@
 ---
 <br/><br/>
 
-## Logistic Regression on mushrooms Dataset with L<sub>3</sub> Regularization
+## Logistic regression on mushrooms dataset with L<sub>3</sub> Regularization
 
 | **$\lambda = L \cdot 10^{-3}$** | **$\lambda = \frac{L}{3} \cdot 10^{-2}$** | **$\lambda = L \cdot 10^{-2}$** |
 |:----------------------------:|:----------------------------:|:----------------------------:|
